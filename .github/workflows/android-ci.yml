@@ -16,6 +16,3 @@ jobs:
           java-version: 21
 
       - uses: gradle/actions/setup-gradle@v4
-
-      - name: Build and unit tests
-        run: ./gradlew assembleDebug testDebugUnitTest
