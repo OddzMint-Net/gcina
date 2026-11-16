@@ -12,7 +12,7 @@ val Background = Color(0xFFF5F6F0)
 val Surface = Color(0xFFFFFFFF)
 
 val Warning = Color(0xFFE8A344)
-val warningContainer = Color(0xFFFFF1D9)
+val WarningContainer = Color(0xFFFFF1D9)
 
 val Danger = Color(0xFFD95D50)
 val DangerContainer = Color(0xFFFCE8E5)
